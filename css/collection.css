@@ -1,10 +1,10 @@
-.hero{
-      width:100%;
-      min-height:100vh;
-      position:relative;
-      overflow:hidden;
-      background-image:url("../img/collection-banner.jpg");
-      background-size:cover;
-      background-position:center;
-      background-repeat:no-repeat;
-    }
+.hero {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background-image: url("../img/collection-banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

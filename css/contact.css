@@ -53,7 +53,8 @@ button {
   padding: 14px;
   margin-top: 20px;
   border: none;
-  background: #c99a4b; /* gold tone */
+  background: #c99a4b;
+  /* gold tone */
   color: white;
   font-size: 16px;
   cursor: pointer;

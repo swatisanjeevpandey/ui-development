@@ -206,6 +206,7 @@ p {
   background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1));
   z-index: 1;
 }
+
 .leader-card h3,
 .leader-card span {
   margin: 0;
@@ -363,7 +364,6 @@ p {
     bottom: auto;
     left: auto;
     transform: none;
-
     margin: 550px auto 40px;
   }
 
@@ -427,10 +427,8 @@ p {
 
   .content {
     position: relative;
-
     top: 180px;
     left: auto;
-
     transform: none;
   }
 
@@ -499,7 +497,6 @@ p {
   .top-strip {
     font-size: 11px;
     line-height: 1.4;
-
     padding: 6px 40px 6px 10px;
   }
 
